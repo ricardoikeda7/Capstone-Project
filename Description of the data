@@ -1,0 +1,10 @@
+The course organizers made the dataset available in csv format. The dataset was uploaded on a Jupyter notebook for initial analysis.The main item of the dataset would be the injured people. 
+
+We can check what are the other information in the dataset:
+  - speed;
+  - date and time;
+  - if the street was wet;
+  - visibility conditions;
+  - etc.
+
+We can verify if there is any combination that increases the incidence of accidents resulting in injured people. 
